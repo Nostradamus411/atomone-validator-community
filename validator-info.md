@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| NosNode🔮 | https://nosnode.com |  https://x.com/Nostradamus411 | Midwest USA | @Nostradamus411 | nos@nosnode.com | nostradamus.nosnode | 38E37CDDFAD0C9F09A5EC557B8BE109768B980AAED0928EF8EA58FA4B3F2AC0D |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
